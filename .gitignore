@@ -1,0 +1,12 @@
+# Entornos virtuales (aislamiento de librerías)
+.venv/
+
+# Variables de entorno (¡CRÍTICO! Contiene tus API keys de OpenAI, etc.)
+.env
+
+# Archivos de caché generados automáticamente por Python
+__pycache__/
+*.pyc
+
+# Archivos temporales generados por Jupyter Notebook
+.ipynb_checkpoints/
